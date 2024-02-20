@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## Get in Touch
 - 💬 Let's chat! Connect with me on [LinkedIn](https://www.linkedin.com/in/aziz-aroug-a9a026246/).
-- 📧 You can also reach out via email at aziz.aroug@example.com.
+- 📧 You can also reach out via email at azizaroug.business@outlook.com or aziz.aroug.9@gmail.com
 
 ## Fun Fact
 - ⚡️ Fun fact: I once built a mini arcade machine from scratch using a Raspberry Pi!
