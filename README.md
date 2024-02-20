@@ -3,7 +3,7 @@
 I'm a passionate software developer with a love for creating innovative solutions. When I'm not coding, you can find me exploring new gaming worlds, embarking on adventures in different corners of the globe, and lending a helping hand to those in need.
 
 ## About Me
-- 🎓 Graduated with a degree in Computer Science.
+- 🎓 Graduated with a degree in Computer Engineering.
 - 💻 Experienced in mobile app development with Flutter, Kotlin and Swift and backend development with Firebase, SQLITE and Node.js.
 - 💻 Experienced in Web development with Reactjs, Angularjs and for the backend with ASP.NET, Django, Node.js and Symfony.
 - 🚀 Always seeking new challenges and opportunities for growth.
