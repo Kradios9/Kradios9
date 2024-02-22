@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## About Me
 - 🎓 Graduated with a degree in Computer Engineering.
-- 💻 Experienced in mobile app development with Flutter, Kotlin and Swift and backend development with Firebase, SQLITE and Node.js.
+- 💻 Experienced in mobile app development with Flutter, React-Native, Kotlin and Swift and backend development with Firebase, SQLITE and Node.js.
 - 💻 Experienced in Web development with Reactjs, Angularjs and for the backend with ASP.NET, Django, Node.js and Symfony.
 - 🚀 Always seeking new challenges and opportunities for growth.
 - 🎨 Creative thinker with a knack for problem-solving.
