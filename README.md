@@ -1,4 +1,5 @@
 # Hi there, I'm Aziz Aroug! 👋
+![My Image](devsecops-graphic-01-3502184397.jpg)
 
 I'm a passionate software developer with a love for creating innovative solutions. When I'm not coding, you can find me exploring new gaming worlds, embarking on adventures in different corners of the globe, and lending a helping hand to those in need.
 
