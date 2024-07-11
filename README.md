@@ -5,7 +5,11 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## About Me
 - 🎓 Graduated with a degree in Computer Engineering.
-- 💻 Experienced in mobile app development with Flutter, React-Native, Kotlin and Swift and backend development with Firebase, SQLITE and Node.js.
+- 🔭 I’m currently focusing on upgrading skills 👨⌛️
+  
+- 💻 Experienced in DevSecOps with Terraform, Git, Jenkins, Docker, K8S, Ansible,
+- 💻 Experienced in mobile app development with Flutter, React-Native, Kotlin and Swift and backend development with Firebase, 
+SQLITE and Node.js.
 - 💻 Experienced in Web development with Reactjs, Angularjs and for the backend with ASP.NET, Django, Node.js and Symfony.
 - 🚀 Always seeking new challenges and opportunities for growth.
 - 🎨 Creative thinker with a knack for problem-solving.
@@ -21,6 +25,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## Fun Fact
 - ⚡️ Fun fact: I once built a mini arcade machine from scratch using a Raspberry Pi!
+- 🤗 Love to make new connections 👫🐥
 - 😄 Fun fact: I have a contagious laugh that can brighten anyone's day!
 
 I'm excited to connect with fellow developers and enthusiasts. Let's build something awesome together!
