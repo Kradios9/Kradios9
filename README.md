@@ -6,11 +6,25 @@ I'm a passionate software developer with a love for creating innovative solution
 ## About Me
 - 🎓 Graduated with a degree in Computer Engineering.
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
-  
+
+- 💻 Experience with Assessment and Authorization (A&A) in support of DoD and IC programs, including package development, artifact generation, and authority to operate (ATO)
+
+- 💻  Familiarity with differences in on-prem OPSEC in relation to cloud-based security
+      • Strong understanding of networking (TCP Flags, TCP Handshake, IP addressing, Firewalls, Proxy, IDS, IPS)
+      • Ability to perform NetFlow / packet capture (PCAP) analysis
+      • Experience with cyber threat hunting
+
 - 💻 Experienced in DevSecOps with Terraform, Git, Jenkins, Docker, K8S, Ansible,
-- 💻 Experienced in mobile app development with Flutter, React-Native, Kotlin and Swift and backend development with Firebase, 
+
+- 💻 Experienced with Nessus, Nmap, Burp Suite , Metasploit , Wireshark , OWASP ZAP
+
+- 💻 Experienced Threat hunting, PowerShell 
+
+- 💻 Experienced in mobile app development with Flutter and React-Native .For backend development with Firebase, 
 SQLITE and Node.js.
+
 - 💻 Experienced in Web development with Reactjs, Angularjs and for the backend with ASP.NET, Django, Node.js and Symfony.
+
 - 🚀 Always seeking new challenges and opportunities for growth.
 - 🎨 Creative thinker with a knack for problem-solving.
 
